@@ -1922,6 +1922,9 @@ API | Description | Auth | HTTPS | CORS |
 | [Weatherbit](https://www.weatherbit.io/api) | Weather | `apiKey` | Yes | Unknown |
 | [Yandex.Weather](https://yandex.com/dev/weather/) | Assesses weather condition in specific locations | `apiKey` | Yes | No |
 
+* [澳洲找工作, 澳洲IT](https://jiangren.com.au/) — 匠人学院，找工作，实习，工作内推，全栈班，DevOps学习
+* [Web全栈班](https://jiangren.com.au/program-course/web-code-bootcamp-or-learn-to-code-1) — Web开发全栈项目班
+
 **[⬆ Back to Index](#index)**
 <br >
 <br >
